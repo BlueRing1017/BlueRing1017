@@ -6,6 +6,7 @@
 - Java (Minecraft Plugin, JDA, etc.)
 - python (자바 시작하면서 깃험 배워서 파이썬은 없다는게 학계의 점심)
 - Node.js (배우는중)
+- Minecraft Skirpt
 
 ### 좋아하는것
 - 고기
